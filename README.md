@@ -1,2 +1,3 @@
 # CYF-raihan-sharif
-a repo for CodeYourFuture
+
+A simple website hosted on github pages for CodeYourFuture.
